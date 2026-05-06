@@ -1,2 +1,2 @@
-Farenheit: 98.80
-Convert Fahrenheit to Celsius : 37.11
+6 
+6
