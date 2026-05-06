@@ -1,5 +1,6 @@
-10
-20
-30
-40
-50
+Result1 is = 8
+Result2 is = 10
+Result3 is = 30
+Result4 is = 10
+Result5 is = 14
+Result6 is = 2
