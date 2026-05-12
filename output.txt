@@ -1,2 +1,1 @@
-Enter i and j valuses: Before swapping :10 20
-After swapping: 20 10
+SUM = 30
