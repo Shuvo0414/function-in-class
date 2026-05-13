@@ -1,7 +1,2 @@
-x= 10, y= 5
-
-Choice an opration : 
-0: Add
-1: Subtract
-2: Multiply
-Result: 50
+Good Moring
+Good Evening
