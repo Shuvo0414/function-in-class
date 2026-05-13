@@ -1,2 +1,3 @@
-Good Moring
-Good Evening
+Before calling the callback..
+Hello from the callback!
+After calling the callback.
