@@ -2,7 +2,7 @@
 
 void demo();
 
-void main ()
+void main()
 {
     demo();
     demo();
@@ -11,7 +11,7 @@ void main ()
 
 void demo()
 {
-    static int i =20;
+    static int i = 20;
     printf("%d\n", i);
     i++;
 }
