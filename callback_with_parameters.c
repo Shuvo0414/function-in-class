@@ -11,7 +11,6 @@ void calculate(void (*callback)(int, int), int x, int y)
 {
     callback(x, y);
 }
-
 int main()
 {
     calculate(addNumbers, 5, 3);
